@@ -10,6 +10,8 @@
 			- Tkinter
 			- pillow
 			- psd_tools
+			- numpy
+			- scipy
 
 		Usage:
 			- copy this code into workspace directory
